@@ -50,7 +50,7 @@ const Index = () => {
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-3xl mx-auto text-center space-y-6">
             <div className="inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/5 px-4 py-1.5 text-xs font-medium text-primary">
-              <Zap className="h-3 w-3" /> Launching in 2025 — AI-Powered Developer Tools
+              <Zap className="h-3 w-3" /> Launching in 2026 — AI-Powered Developer Tools
             </div>
 
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight leading-tight">
